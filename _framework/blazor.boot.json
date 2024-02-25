@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RandomUrbanDictionaryWordApp",
   "resources": {
-    "hash": "sha256-BWj8CkeS9PvTHOSsppI5o+ICKFSpHUiu8QpvcMi+x1M=",
+    "hash": "sha256-T5eqgwn+8W7v6XD2N2qIRVzdhxsVh8tQTz0I3MO8Lak=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.k9zvegxqvw.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-YrfCScFF0LzZQNjdEH2CUZGB+8qB1MkV8iZWMiLXK9s=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-mx3vfuqmUd7fJT3G77ZVYFM4nxUowTl4pe6HblWyaZk=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-0KisFlCQGsFQexOgjsJ2pZiu6mZAgVpvKoIM5ngHeD4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-jrdFRjrF1131MZ3HGQVsI3dX8cLdZvPz85lsBltxjSM=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-87sn2TYqgdZ95sXmavjKEzoEfMgHnYQ9LOvnMX+aZcI=",
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-1vXTFGB8f1xknhrY0hxfr04x1/JK+bA0IxTp2CBzmhY=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-2qBJkLnOCr4py2S0peps0cFo0z3Ew9OVwGYodtvAVkk=",
-      "RandomUrbanDictionaryWordApp.wasm": "sha256-8RovFk82NIDGD6aSC7E20wlEgjyBELghSmV0EM1/2rE=",
+      "RandomUrbanDictionaryWordApp.wasm": "sha256-HFo2JyWLRzdUyTorjjDRi6+DxK0JW2NdiuTLXgfcEmM=",
       "System.Collections.Concurrent.wasm": "sha256-DEZ59fGbj2NqpZbDf9KV0hzXZkN0+vJaLNPPONQTjLo=",
       "System.Collections.wasm": "sha256-TJmCUzy2Lo8teyxQHruy2sTV2OgVHlIJRyidBtkS5iU=",
       "System.ComponentModel.wasm": "sha256-qwurUoDSjnjNxAivtUxZqGvkOgARzX9ETuhBPrMx5Xo=",
